@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18157
-Fork on GitHub
-5348
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Faysal Khan</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 
