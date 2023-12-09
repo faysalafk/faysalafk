@@ -7,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newronfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="newronfaysal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/newronfaysal" target="blank"><img src="https://img.shields.io/twitter/follow/newronfaysal?logo=twitter&style=for-the-badge" alt="newronfaysal" /></a> </p>
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shihab2209)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahadat-hossain1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shihab2209/)
 
 🌟 About Me
 
