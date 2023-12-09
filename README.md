@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sahadat%20Hossain&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FAYSAL%20KHAN&fontSize=90)
 
 ![](https://komarev.com/ghpvc/?username=shihab2209&style=flat-square&color=red)
 <h1 align="center">👋Hey there, I am Shihab</h1>
