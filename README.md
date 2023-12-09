@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FAYSAL%20KHAN&fontSize=90&animation=twinkling)
 
-![](https://komarev.com/ghpvc/?username=newronfaysal&style=flat-square&color=red)
+
 <h1 align="center">👋Hey there, I am Faysal</h1>
 <h3 align="center">Welcome to my GitHub profile!.</h3>
 
@@ -8,12 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/newronfaysal" target="blank"><img src="https://img.shields.io/twitter/follow/newronfaysal?logo=twitter&style=for-the-badge" alt="newronfaysal" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+##🌟 About Me
 
-- 👯 I’m looking to collaborate on **University Projects**
-
+- 🎨 Enthusiastic about coding.
+- 🌍 Accepting the path of lifelong learning, establishing connections with the tech community, and working together on fascinating projects.
 - 🤝 I’m looking for help with [building a web app.](Contact through linked in)
-
 - 📫 How to reach me **kfaysal123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
