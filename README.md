@@ -21,8 +21,9 @@
 - 📫 How to reach me **kfaysal123@gmail.com**
 
 
+
 <p align="center">
-  <img src=["https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" alt="Hello" width="300" height="200">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Just for fun" width="300" height="200">
 </p>
 
 <p align="center">
