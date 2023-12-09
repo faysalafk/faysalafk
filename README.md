@@ -8,12 +8,31 @@
 
 <p align="left"> <a href="https://twitter.com/newronfaysal" target="blank"><img src="https://img.shields.io/twitter/follow/newronfaysal?logo=twitter&style=for-the-badge" alt="newronfaysal" /></a> </p>
 
-##🌟 About Me
+🌟 About Me
 
 - 🎨 Enthusiastic about coding.
 - 🌍 Accepting the path of lifelong learning, establishing connections with the tech community, and working together on fascinating projects.
 - 🤝 I’m looking for help with [building a web app.](Contact through linked in)
 - 📫 How to reach me **kfaysal123@gmail.com**
+
+
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hello" width="300" height="200">
+</p>
+<p align="center">
+  <em>Bringing a little bit of fun to coding, one line at a time!</em>
+</p>
+
+
+## 🛠 Tools
+
+### Frameworks, Platforms and Libraries
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
