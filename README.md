@@ -29,9 +29,8 @@
 
 
 <p align="center">
-  <em>Bringing a little bit of fun to coding, one line at a time!</em>
+  <em>Adding a little bit of fun to coding!</em>
 </p>
-
 
 ## 🛠 Tools
 
