@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newronfaysal&label=Profile%20views&color=0e75b6&style=flat" alt="newronfaysal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/newronfaysal" target="blank"><img src="https://img.shields.io/twitter/follow/newronfaysal?logo=twitter&style=for-the-badge" alt="newronfaysal" /></a> </p>
-<p align="left"> <a href="https://facebook.com/fks007" target="blank"><img src="https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white" alt="newronfaysal" /></a> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/shihab2209?label=Follow&style=social)](https://github.com/newronfaysal)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/fks007)
