@@ -21,11 +21,9 @@
 - 📫 How to reach me **kfaysal123@gmail.com**
 
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="300" height="200">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Hello" width="300" height="200">
 </p>
-
 
 
 <p align="center">
